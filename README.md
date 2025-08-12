@@ -5,5 +5,7 @@ This project features a responsive and user-friendly interface that works seamle
 To use the app, simply open the index file in a web browser, enter your data, and view the results. The project is open for contributions and improvements.
 
 Languages : HTML , CSS & JavaScript 
-Tool : VS Code 
+
+Tool : VS Code
+ 
 Produced by : FreeCodeCamp 
